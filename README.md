@@ -14,6 +14,8 @@ This method allows you to bypass the Microsoft account requirement by disconnect
 
 2. **Open Command Prompt:**
    - When you are at the Windows 11 setup screen on the home screen language selection and keyboard selection, press **Shift + F10** to open the Command Prompt.
+   
+   <img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/16bd5440-0ac0-45c6-aea2-d4053cf73ad1" />
 
 3. **Type the Command:**
    - In the Command Prompt window, type the following:
@@ -21,9 +23,15 @@ This method allows you to bypass the Microsoft account requirement by disconnect
      
    - Press **Enter**.
 
+   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/62011217-0076-46cd-b97b-5afb1ca82db0" />
+
+
 4. **Restart:**
 
    * Your system will restart. After the restart, you should now see the option **“I don’t have Internet”**.
+
+   <img width="708" height="517" alt="image" src="https://github.com/user-attachments/assets/54a4e615-a2aa-4db0-90c4-c87e85512645" />
+
 
 5. **Proceed to Local Account Setup:**
 
@@ -41,16 +49,24 @@ If you've already connected to the internet during setup, you can still bypass t
 
    * Open the comment prompt when you have passed the connection stage via the internet/wireless network and at the stage after Windows updates, you will enter a Microsoft account, press **Shift + F10** to open a Command Prompt window.
 
+<img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/f7545d00-e755-4765-9d77-7b0a0c8bf093" />
+
+
 2. **Enter the Command:**
 
    * In the Command Prompt, type the following command :
      start ms-cxh:localonly
-     
-   - Press **Enter**.
+   
+   * Press **Enter**.
+
+   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/59ee5ecd-3025-4a2b-8822-6b5f8df7b94e" />
 
 3. **Create a Local Account:**
 
    * This will bypass the Microsoft account requirement, and you will now be able to create a **local account**.
+
+   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/c5c27cb5-c88e-45ec-9f69-1dffe43a4570" />
+
 
 4. **Complete the Setup:**
 
@@ -90,15 +106,22 @@ Metode ini memungkinkan Anda untuk melewati persyaratan akun Microsoft dengan me
 
    * Saat Anda berada di layar pengaturan Windows 11, tepat setelah memilih bahasa dan pengaturan keyboard, tekan **Shift + F10** untuk membuka Command Prompt.
 
+   <img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/16bd5440-0ac0-45c6-aea2-d4053cf73ad1" />
+
 3. **Ketik Perintah:**
 
    * Ketik perintah berikut di jendela Command Prompt:
      OOBE\BYPASSNRO
    * Tekan **Enter**.
 
+   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/62011217-0076-46cd-b97b-5afb1ca82db0" />
+
 4. **Restart:**
 
    * Sistem Anda akan restart. Setelah restart, Anda akan melihat opsi **"I don’t have Internet"**.
+
+   <img width="708" height="517" alt="image" src="https://github.com/user-attachments/assets/bf221099-9460-4b50-88b2-4c51b5d07d5f" />
+
 
 5. **Lanjutkan Pengaturan Akun Lokal:**
 
@@ -116,6 +139,8 @@ Jika Anda sudah terhubung ke internet selama proses instalasi, Anda masih bisa m
 
    * Setelah Anda melewati tahap koneksi internet, dan saat Anda memasuki tahap setelah pembaruan Windows di mana Anda diminta untuk masuk dengan akun Microsoft, tekan **Shift + F10** untuk membuka Command Prompt.
 
+   <img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/f7545d00-e755-4765-9d77-7b0a0c8bf093" />
+
 2. **Masukkan Perintah:**
 
    * Ketik perintah berikut di Command Prompt :
@@ -123,9 +148,14 @@ Jika Anda sudah terhubung ke internet selama proses instalasi, Anda masih bisa m
 
    * Tekan **Enter**.
 
+   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/59ee5ecd-3025-4a2b-8822-6b5f8df7b94e" />
+
+
 4. **Buat Akun Lokal:**
 
    * Perintah ini akan melewati persyaratan akun Microsoft, dan Anda sekarang akan dapat membuat **akun lokal**.
+
+   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/c5c27cb5-c88e-45ec-9f69-1dffe43a4570" />
 
 5. **Selesaikan Instalasi:**
 
